@@ -1,0 +1,39 @@
+.header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-navbar {
+    display: inline-block;
+}
+
+.right-navbar {
+    display: inline-block;
+}
+
+.navbar {
+    width: -webkit-fill-available;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+}
+
+.brand {
+    width: 128px;
+}
+
+.navbar-button {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 20px;
+    color: white;
+    padding-inline: 15px;
+    padding-block: 5px;
+    margin: 5px;
+    font-family: monospace;
+}
