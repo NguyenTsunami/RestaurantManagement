@@ -16,8 +16,9 @@
     <body>
         <div class="container">
             <jsp:include page="Header.jsp"/>
+            <jsp:include page="SearchBar.jsp"/>
             <div class="content">
-                <p>Tsunami said: "1 bubble tea/loc!"</p>
+                <p>Thủy said: "1 bubble tea/loc!"</p>
             </div>
             <jsp:include page="Footer.jsp"/>
         </div>

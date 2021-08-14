@@ -17,13 +17,13 @@
             <img src="images/brand.png" alt="brand" class="brand">   
             <div class="navbar">
                 <div class="left-navbar">
-                    <button type="button" class="navbar-button">Home Page</button>
-                    <button type="button" class="navbar-button">Sale Today</button>
-                    <button type="button" class="navbar-button">Register Restaurant</button>
+                    <button type="button" class="navbar-button">Trang chủ</button>
+                    <button type="button" class="navbar-button">Ưu đãi hôm nay</button>
+                    <button type="button" class="navbar-button">Đăng ký nhà hàng</button>
                 </div>
                 <div class="right-navbar">
-                    <button type="button" class="navbar-button">Login</button>
-                    <button type="button" class="navbar-button">Sign Up</button>
+                    <button type="button" class="navbar-button">Đăng nhập</button>
+                    <button type="button" class="navbar-button">Đăng ký</button>
                 </div>
             </div>
         </div>

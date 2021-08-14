@@ -1,4 +1,4 @@
-<%-- 
+    <%-- 
     Document   : Footer
     Created on : Aug 11, 2021, 10:03:10 PM
     Author     : Hoang Yen
@@ -16,7 +16,7 @@
     <body>
         <div class="helpbar">
             <div class="helpbar-item">
-                <p  class="item-header">Follow us on</p>
+                <p  class="item-header">Theo dõi chúng tôi trên</p>
                 <div class="item-content">
                     <a href="#"  class="item-link">  
                         <i class="fab fa-facebook"></i> 
@@ -30,23 +30,23 @@
                 </div>
             </div>
             <div class="helpbar-item">
-                <p  class="item-header">About Feast Booking</p>
+                <p  class="item-header">Về Feast Booking</p>
                 <div class="item-content">
-                    <a href="#" class="item-link">Way to order</a>
-                    <a href="#"  class="item-link">Contact us</a>
-                    <a href="#"  class="item-link">Recruiter</a>
-                    <a href="#"  class="item-link">About us</a>
+                    <a href="#" class="item-link">Cách đặt tiệc</a>
+                    <a href="#"  class="item-link">Liên hệ với chúng tôi</a>
+                    <a href="#"  class="item-link">Tuyển dụng</a>
+                    <a href="#"  class="item-link">Về chúng tôi</a>
                 </div>
             </div>
             <div class="helpbar-item">
-                <p  class="item-header">Help</p>
+                <p  class="item-header">Trợ giúp</p>
                 <div class="item-content">
-                    <a href="#"  class="item-link">Help center</a>
-                    <a href="#"  class="item-link">Popular questions</a>
-                    <a href="#"  class="item-link">Privacy polity </a>
-                    <a href="#"  class="item-link">Terms of use</a>
+                    <a href="#"  class="item-link">Trung tâm trợ giúp</a>
+                    <a href="#"  class="item-link">Câu hỏi thường gặp</a>
+                    <a href="#"  class="item-link">Chính sách bảo mật</a>
+                    <a href="#"  class="item-link">Điều khoản sử dụng</a>
                 </div>
-            </div>
+            </div>  
         </div>
         <div class="licensebar">
             <p>@ 2021 Feast Booking. All rights reserved.</p>
